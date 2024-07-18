@@ -1,5 +1,7 @@
-.style-aryan{
-    display:flex;
-    flex-direction: column;
-    border: 3px solid rebeccapurple;
+.style-aryan {
+  display: flex;
+  flex-direction: column;
+  border: 3px solid rebeccapurple;
+  padding: 1rem;
+  border-radius: 10%;
 }
