@@ -1,0 +1,5 @@
+.style-aryan{
+    display:flex;
+    flex-direction: column;
+    border: 3px solid rebeccapurple;
+}
